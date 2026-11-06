@@ -57,7 +57,7 @@ interface gig0/0.30
 - Same-VLAN ping across the trunk (PC0 to PC3): successful
 - Different-VLAN ping through the router (PC0 to PC2): successful
 
-![Ping test](ping-test.png)
+![Ping test](inter-vlan/2026-11-06 (10).png)
 ![show vlan brief](show-vlan-brief.png)
 ![show interfaces trunk](show-trunk.png)
 
