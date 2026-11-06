@@ -41,7 +41,7 @@ interface gig0/0.30
  encapsulation dot1Q 30
  ip address 192.168.30.1 255.255.255.0
 ```
-
+![ROUTER INFO](<2026-11-06 (17).png>)
 
 ## Problems I hit and how I fixed them
 1. **Same-VLAN pings timed out across switches.** I had assigned the PC ports on Switch1 to the wrong access ports. I checked with `show vlan brief`, then moved each port into the correct VLAN.
