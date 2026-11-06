@@ -58,7 +58,7 @@ interface gig0/0.30
 - Different-VLAN ping through the router (PC0 to PC2): successful
 
 ![Ping test](<2026-11-06 (10).png>)
-![show vlan brief](show-vlan-brief.png)
+![show vlan brief](<2026-11-06 (15).png>)
 ![show interfaces trunk](show-trunk.png)
 
 ## Next steps
