@@ -59,7 +59,7 @@ interface gig0/0.30
 
 ![Ping test](<2026-11-06 (10).png>)
 ![show vlan brief](<2026-11-06 (15).png>)
-![show interfaces trunk](show-trunk.png)
+![show interfaces trunk](<2026-11-06 (16).png>)
 
 ## Next steps
 DHCP, ACLs, NAT and OSPF labs will be added to this repository.
