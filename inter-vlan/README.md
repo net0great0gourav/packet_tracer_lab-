@@ -11,7 +11,7 @@ Connect 3 VLANs across two switches using a trunk link, and let the VLANs commun
 - Switch0 and Switch1 are connected by an 802.1Q trunk
 - Switch1 connects to the router through a trunk
 
-![Topology](topology.png)
+![Topology](inter-vlan/2026-11-06 (1).png)
 
 ## IP Plan
 | VLAN | Network | Gateway | PCs |
